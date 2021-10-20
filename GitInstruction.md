@@ -27,7 +27,7 @@
 Команда 2 проходит на платформе [Geekbrains](https://gb.ru/)
 
 ![Эмблема geekbrains](https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg)
-
+ 
 
 #### Для чего нужна система контроля версий
 
